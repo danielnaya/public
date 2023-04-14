@@ -1,0 +1,7 @@
+CREATE OR REPLACE TABLE FORMACION.PUBLICO.CLIENTE (
+   ID number,
+   NOMBRE string,
+   DIRECCION string,
+   TELEFONO string,
+   EMAIL string,
+);
